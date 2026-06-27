@@ -1,101 +1,13 @@
-# Articles - 2026-06-26 21:35
+# Articles - 2026-06-27 13:50
 
 ## simplex-chat/simplex-chat
 
 **Source:** github_trending
 **URL:** https://github.com/simplex-chat/simplex-chat
-**Published:** 2026-06-26 21:35:43.277780
+**Published:** 2026-06-27 13:50:17.323601
 **Score:** 0
 
-SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱! (⭐ 432 stars today)
-
----
-
-## google-labs-code/design.md
-
-**Source:** github_trending
-**URL:** https://github.com/google-labs-code/design.md
-**Published:** 2026-06-26 21:35:43.277884
-**Score:** 0
-
-A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system. (⭐ 2,407 stars today)
-
----
-
-## commaai/openpilot
-
-**Source:** github_trending
-**URL:** https://github.com/commaai/openpilot
-**Published:** 2026-06-26 21:35:43.277985
-**Score:** 0
-
-openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars. (⭐ 80 stars today)
-
----
-
-## kunchenguid/no-mistakes
-
-**Source:** github_trending
-**URL:** https://github.com/kunchenguid/no-mistakes
-**Published:** 2026-06-26 21:35:43.278073
-**Score:** 0
-
-git push no-mistakes (⭐ 398 stars today)
-
----
-
-## grafana/grafana
-
-**Source:** github_trending
-**URL:** https://github.com/grafana/grafana
-**Published:** 2026-06-26 21:35:43.278162
-**Score:** 0
-
-The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. (⭐ 32 stars today)
-
----
-
-## ripienaar/free-for-dev
-
-**Source:** github_trending
-**URL:** https://github.com/ripienaar/free-for-dev
-**Published:** 2026-06-26 21:35:43.278246
-**Score:** 0
-
-A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev (⭐ 90 stars today)
-
----
-
-## opendatalab/MinerU
-
-**Source:** github_trending
-**URL:** https://github.com/opendatalab/MinerU
-**Published:** 2026-06-26 21:35:43.278328
-**Score:** 0
-
-Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows. (⭐ 960 stars today)
-
----
-
-## alchaincyf/zhangxuefeng-skill
-
-**Source:** github_trending
-**URL:** https://github.com/alchaincyf/zhangxuefeng-skill
-**Published:** 2026-06-26 21:35:43.278400
-**Score:** 0
-
-张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。 (⭐ 160 stars today)
-
----
-
-## mauriceboe/TREK
-
-**Source:** github_trending
-**URL:** https://github.com/mauriceboe/TREK
-**Published:** 2026-06-26 21:35:43.278482
-**Score:** 0
-
-A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more. (⭐ 1,060 stars today)
+SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱! (⭐ 1,470 stars today)
 
 ---
 
@@ -103,54 +15,21 @@ A self-hosted travel/trip planner with real-time collaboration, interactive maps
 
 **Source:** github_trending
 **URL:** https://github.com/xbtlin/ai-berkshire
-**Published:** 2026-06-26 21:35:43.278561
+**Published:** 2026-06-27 13:50:17.323697
 **Score:** 0
 
-AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built on Claude Code. 4 masters' methodologies + multi-agent adversarial analysis. (⭐ 1,274 stars today)
+AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built on Claude Code. 4 masters' methodologies + multi-agent adversarial analysis. (⭐ 686 stars today)
 
 ---
 
-## calesthio/OpenMontage
+## commaai/openpilot
 
 **Source:** github_trending
-**URL:** https://github.com/calesthio/OpenMontage
-**Published:** 2026-06-26 21:35:43.278668
+**URL:** https://github.com/commaai/openpilot
+**Published:** 2026-06-27 13:50:17.323794
 **Score:** 0
 
-World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio. (⭐ 1,754 stars today)
-
----
-
-## aws/agent-toolkit-for-aws
-
-**Source:** github_trending
-**URL:** https://github.com/aws/agent-toolkit-for-aws
-**Published:** 2026-06-26 21:35:43.278750
-**Score:** 0
-
-Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS (⭐ 243 stars today)
-
----
-
-## NanmiCoder/MediaCrawler
-
-**Source:** github_trending
-**URL:** https://github.com/NanmiCoder/MediaCrawler
-**Published:** 2026-06-26 21:35:43.278857
-**Score:** 0
-
-小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫 (⭐ 673 stars today)
-
----
-
-## garrytan/gstack
-
-**Source:** github_trending
-**URL:** https://github.com/garrytan/gstack
-**Published:** 2026-06-26 21:35:43.278938
-**Score:** 0
-
-Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA (⭐ 950 stars today)
+openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars. (⭐ 322 stars today)
 
 ---
 
@@ -158,10 +37,54 @@ Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO,
 
 **Source:** github_trending
 **URL:** https://github.com/IceWhaleTech/CasaOS
-**Published:** 2026-06-26 21:35:43.279021
+**Published:** 2026-06-27 13:50:17.323879
 **Score:** 0
 
-CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system. (⭐ 619 stars today)
+CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system. (⭐ 502 stars today)
+
+---
+
+## ripienaar/free-for-dev
+
+**Source:** github_trending
+**URL:** https://github.com/ripienaar/free-for-dev
+**Published:** 2026-06-27 13:50:17.323962
+**Score:** 0
+
+A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev (⭐ 459 stars today)
+
+---
+
+## google-labs-code/design.md
+
+**Source:** github_trending
+**URL:** https://github.com/google-labs-code/design.md
+**Published:** 2026-06-27 13:50:17.324044
+**Score:** 0
+
+A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system. (⭐ 1,542 stars today)
+
+---
+
+## microsoft/PowerToys
+
+**Source:** github_trending
+**URL:** https://github.com/microsoft/PowerToys
+**Published:** 2026-06-27 13:50:17.324126
+**Score:** 0
+
+Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows (⭐ 67 stars today)
+
+---
+
+## hugohe3/ppt-master
+
+**Source:** github_trending
+**URL:** https://github.com/hugohe3/ppt-master
+**Published:** 2026-06-27 13:50:17.324207
+**Score:** 0
+
+AI generates a real, editable PowerPoint from any document — native shapes & animations, speaker notes voiced as audio narration, and the option to follow your own .pptx template, not slide images · by Hugo He (⭐ 589 stars today)
 
 ---
 
@@ -169,21 +92,131 @@ CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system. (⭐ 
 
 **Source:** github_trending
 **URL:** https://github.com/JCodesMore/ai-website-cloner-template
-**Published:** 2026-06-26 21:35:43.279105
+**Published:** 2026-06-27 13:50:17.324288
 **Score:** 0
 
-Clone any website with one command using AI coding agents (⭐ 1,088 stars today)
+Clone any website with one command using AI coding agents (⭐ 750 stars today)
 
 ---
 
-## Panniantong/Agent-Reach
+## garrytan/gstack
 
 **Source:** github_trending
-**URL:** https://github.com/Panniantong/Agent-Reach
-**Published:** 2026-06-26 21:35:43.279188
+**URL:** https://github.com/garrytan/gstack
+**Published:** 2026-06-27 13:50:17.324370
 **Score:** 0
 
-Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. (⭐ 1,194 stars today)
+Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA (⭐ 674 stars today)
+
+---
+
+## NanmiCoder/MediaCrawler
+
+**Source:** github_trending
+**URL:** https://github.com/NanmiCoder/MediaCrawler
+**Published:** 2026-06-27 13:50:17.324475
+**Score:** 0
+
+小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫 (⭐ 394 stars today)
+
+---
+
+## Anil-matcha/Open-Generative-AI
+
+**Source:** github_trending
+**URL:** https://github.com/Anil-matcha/Open-Generative-AI
+**Published:** 2026-06-27 13:50:17.324557
+**Score:** 0
+
+Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed. (⭐ 254 stars today)
+
+---
+
+## topoteretes/cognee
+
+**Source:** github_trending
+**URL:** https://github.com/topoteretes/cognee
+**Published:** 2026-06-27 13:50:17.324662
+**Score:** 0
+
+Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine. (⭐ 808 stars today)
+
+---
+
+## dbt-labs/dbt-core
+
+**Source:** github_trending
+**URL:** https://github.com/dbt-labs/dbt-core
+**Published:** 2026-06-27 13:50:17.324743
+**Score:** 0
+
+dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications. (⭐ 45 stars today)
+
+---
+
+## luongnv89/claude-howto
+
+**Source:** github_trending
+**URL:** https://github.com/luongnv89/claude-howto
+**Published:** 2026-06-27 13:50:17.324851
+**Score:** 0
+
+A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value. (⭐ 138 stars today)
+
+---
+
+## anomalyco/opencode
+
+**Source:** github_trending
+**URL:** https://github.com/anomalyco/opencode
+**Published:** 2026-06-27 13:50:17.324955
+**Score:** 0
+
+The open source coding agent. (⭐ 428 stars today)
+
+---
+
+## Fission-AI/OpenSpec
+
+**Source:** github_trending
+**URL:** https://github.com/Fission-AI/OpenSpec
+**Published:** 2026-06-27 13:50:17.325036
+**Score:** 0
+
+Spec-driven development (SDD) for AI coding assistants. (⭐ 167 stars today)
+
+---
+
+## HKUDS/Vibe-Trading
+
+**Source:** github_trending
+**URL:** https://github.com/HKUDS/Vibe-Trading
+**Published:** 2026-06-27 13:50:17.325118
+**Score:** 0
+
+"Vibe-Trading: Your Personal Trading Agent" (⭐ 83 stars today)
+
+---
+
+## keycloak/keycloak
+
+**Source:** github_trending
+**URL:** https://github.com/keycloak/keycloak
+**Published:** 2026-06-27 13:50:17.325223
+**Score:** 0
+
+Open Source Identity and Access Management For Modern Applications and Services (⭐ 11 stars today)
+
+---
+
+## every-app/open-seo
+
+**Source:** github_trending
+**URL:** https://github.com/every-app/open-seo
+**Published:** 2026-06-27 13:50:17.325299
+**Score:** 0
+
+Open source alternative to Semrush and Ahrefs (⭐ 230 stars today)
 
 ---
 

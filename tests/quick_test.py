@@ -16,7 +16,7 @@ test_article = Article(
     url="http://test.com",
     published_at=datetime.now(),
     source="test",
-    summary="Test summary"
+    summary="Test summary",
 )
 path = storage.save([test_article], "test.md")
 assert path.exists()
