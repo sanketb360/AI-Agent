@@ -1,10 +1,11 @@
 """Base class for AI agents."""
 
+import json
 import os
 from abc import ABC, abstractmethod
 from typing import Any, Callable, Dict, List, Optional
+
 from litellm import completion
-import json
 
 
 class BaseAgent(ABC):

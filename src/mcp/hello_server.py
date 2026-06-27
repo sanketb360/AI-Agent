@@ -1,9 +1,10 @@
 """Hello World MCP server."""
 
 import asyncio
+
 from mcp.server import Server
 from mcp.server.stdio import stdio_server
-from mcp.types import Tool, TextContent
+from mcp.types import TextContent, Tool
 
 # Create server
 server = Server("hello-world")

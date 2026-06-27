@@ -1,12 +1,11 @@
 """Tests for HackerNews fetcher."""
 
 import pytest
+
 from src.fetchers.hackernews_fetcher import HackerNewsFetcher
 from src.models.article import Article
-import pytest
-from src.fetchers.hackernews_fetcher import HackerNewsFetcher
-from src.transformers.article_transformer import ArticleTransformer
 from src.storage.markdown_storage import MarkdownStorage
+from src.transformers.article_transformer import ArticleTransformer
 
 
 @pytest.mark.asyncio
@@ -48,9 +47,10 @@ async def test_fetch_concurrent():
 # tests/test_hackernews_fetcher.py
 
 import pytest
+
 from src.fetchers.hackernews_fetcher import HackerNewsFetcher
-from src.transformers.article_transformer import ArticleTransformer
 from src.storage.markdown_storage import MarkdownStorage
+from src.transformers.article_transformer import ArticleTransformer
 
 
 @pytest.mark.asyncio

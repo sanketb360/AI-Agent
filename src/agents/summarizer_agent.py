@@ -1,11 +1,12 @@
 """Agent that summarizes filtered articles."""
 
-from typing import Dict, Any
-from pathlib import Path
-from src.agents.base_agent import BaseAgent
-from src.skills.search_skill import SearchSkill
 import json
 import re
+from pathlib import Path
+from typing import Any, Dict
+
+from src.agents.base_agent import BaseAgent
+from src.skills.search_skill import SearchSkill
 
 
 class SummarizerAgent(BaseAgent):

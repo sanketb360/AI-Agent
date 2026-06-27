@@ -1,9 +1,10 @@
 """Agent that writes newsletter from summary."""
 
-from typing import Dict, Any
-from pathlib import Path
-from src.agents.base_agent import BaseAgent
 from datetime import datetime
+from pathlib import Path
+from typing import Any, Dict
+
+from src.agents.base_agent import BaseAgent
 
 
 class WriterAgent(BaseAgent):

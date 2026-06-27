@@ -6,9 +6,10 @@ ROOT_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 if ROOT_DIR not in sys.path:
     sys.path.insert(0, ROOT_DIR)
 
-from src.storage.markdown_storage import MarkdownStorage
-from src.models.article import Article
 from datetime import datetime
+
+from src.models.article import Article
+from src.storage.markdown_storage import MarkdownStorage
 
 storage = MarkdownStorage("data/test_articles")
 test_article = Article(

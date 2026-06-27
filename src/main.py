@@ -1,10 +1,10 @@
 # src/main.py
 
-from src.orchestrator import FetchOrchestrator
-from src.fetchers.hackernews_fetcher import HackerNewsFetcher
 from src.fetchers.github_trending_fetcher import GitHubTrendingFetcher
-from src.transformers.article_transformer import ArticleTransformer
+from src.fetchers.hackernews_fetcher import HackerNewsFetcher
+from src.orchestrator import FetchOrchestrator
 from src.storage.markdown_storage import MarkdownStorage
+from src.transformers.article_transformer import ArticleTransformer
 
 
 async def main():

@@ -1,6 +1,6 @@
 """Simple calculator tool."""
 
-from typing import Dict, Any
+from typing import Any, Dict
 
 
 def calculator(expression: str) -> Dict[str, Any]:

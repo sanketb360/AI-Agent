@@ -9,9 +9,9 @@ from typing import List
 import feedparser
 from dateutil import parser as date_parser
 
+from src.fetchers.base_fetcher import BaseFetcher
 from src.models.article import Article
 from src.storage.markdown_storage import MarkdownStorage
-from src.fetchers.base_fetcher import BaseFetcher
 
 
 class RSSFetcher(BaseFetcher):

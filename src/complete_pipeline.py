@@ -1,19 +1,19 @@
 """Complete multi-agent pipeline with MCP."""
 
 import asyncio
-from pathlib import Path
 import sys
+from pathlib import Path
 
 # Make repo root importable when running this file directly.
 repo_root = Path(__file__).resolve().parents[1]
 if str(repo_root) not in sys.path:
     sys.path.insert(0, str(repo_root))
 
-from src.orchestrator import FetchOrchestrator
 from src.agents.news_filter_agent import NewsFilterAgent
 from src.agents.summarizer_agent import SummarizerAgent
 from src.agents.writer_agent import WriterAgent
 from src.database.db_manager import DatabaseManager
+from src.orchestrator import FetchOrchestrator
 
 
 async def run_complete_pipeline():

@@ -1,6 +1,6 @@
 """Simple web search tool (mock for now)."""
 
-from typing import Dict, Any, List
+from typing import Any, Dict, List
 
 
 def web_search(query: str, num_results: int = 3) -> Dict[str, Any]:

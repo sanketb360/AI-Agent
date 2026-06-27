@@ -1,8 +1,10 @@
 # tests/test_news_filter_agent.py
-import pytest
-from src.agents.news_filter_agent import NewsFilterAgent
-from pathlib import Path
 import tempfile
+from pathlib import Path
+
+import pytest
+
+from src.agents.news_filter_agent import NewsFilterAgent
 
 
 @pytest.mark.asyncio

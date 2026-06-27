@@ -7,11 +7,12 @@ repo_root = Path(__file__).resolve().parents[1].parent
 if str(repo_root) not in sys.path:
     sys.path.insert(0, str(repo_root))
 
+import json
+
 from mcp.server import Server
 from mcp.server.stdio import stdio_server
-from mcp.types import Tool, TextContent
+from mcp.types import TextContent, Tool
 from src.database.db_manager import DatabaseManager
-import json
 
 # Create server
 server = Server("database-server")

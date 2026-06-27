@@ -1,7 +1,8 @@
 """Transform raw data to Article objects."""
 
-from typing import List, Dict, Any
 from datetime import datetime
+from typing import Any, Dict, List
+
 from src.models.article import Article
 
 

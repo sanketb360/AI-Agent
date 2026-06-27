@@ -1,10 +1,11 @@
 """Factory for creating fetchers."""
 
 from typing import Dict, Type
+
 from src.fetchers.base_fetcher import BaseFetcher
+from src.fetchers.github_trending_fetcher import GitHubTrendingFetcher
 from src.fetchers.hackernews_fetcher import HackerNewsFetcher
 from src.fetchers.rss_fetcher import RSSFetcher
-from src.fetchers.github_trending_fetcher import GitHubTrendingFetcher
 
 
 class FetcherFactory:

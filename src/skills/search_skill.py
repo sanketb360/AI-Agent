@@ -1,11 +1,12 @@
 """Reusable search skill using MCP."""
 
-from typing import List, Dict, Any
 import asyncio
+import json
 import sys
+from typing import Any, Dict, List
+
 from mcp import ClientSession, StdioServerParameters
 from mcp.client.stdio import stdio_client
-import json
 
 
 class SearchSkill:

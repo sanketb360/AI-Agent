@@ -1,8 +1,9 @@
 """Save articles to markdown files."""
 
-from typing import List
-from pathlib import Path
 from datetime import datetime
+from pathlib import Path
+from typing import List
+
 from src.models.article import Article
 from src.storage.base_storage import ArticleStorage
 

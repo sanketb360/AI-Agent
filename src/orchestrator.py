@@ -1,9 +1,9 @@
 """Orchestrate multiple news fetchers."""
 
 import asyncio
-from typing import List, Optional
-from pathlib import Path
 import sys
+from pathlib import Path
+from typing import List, Optional
 
 # Make repo root importable when running this file directly.
 repo_root = Path(__file__).resolve().parents[1].parent

@@ -2,10 +2,11 @@
 
 import sqlite3
 import sys
-import aiosqlite
-from pathlib import Path
-from typing import List, Dict
 from datetime import datetime
+from pathlib import Path
+from typing import Dict, List
+
+import aiosqlite
 
 
 class DatabaseManager:

@@ -1,11 +1,19 @@
 """Agent that filters AI-relevant articles."""
 
+import asyncio
 import json
-from typing import Dict, Any, List
+import re
+import sys
 from pathlib import Path
+from typing import Any, Dict, List
+
+# Make repo root importable when running this file directly.
+repo_root = Path(__file__).resolve().parents[1]
+if str(repo_root) not in sys.path:
+    sys.path.insert(0, str(repo_root))
+
 from src.agents.base_agent import BaseAgent
 from src.models.article import Article
-import re
 
 
 class NewsFilterAgent(BaseAgent):
