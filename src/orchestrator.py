@@ -2,6 +2,13 @@
 
 import asyncio
 from typing import List, Optional
+from pathlib import Path
+import sys
+
+# Make repo root importable when running this file directly.
+repo_root = Path(__file__).resolve().parents[1].parent
+if str(repo_root) not in sys.path:
+    sys.path.insert(0, str(repo_root))
 
 from src.fetchers.base_fetcher import BaseFetcher
 from src.fetchers.github_trending_fetcher import GitHubTrendingFetcher

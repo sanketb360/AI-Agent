@@ -1,10 +1,10 @@
-# Articles - 2026-06-27 13:50
+# Articles - 2026-06-27 15:21
 
 ## simplex-chat/simplex-chat
 
 **Source:** github_trending
 **URL:** https://github.com/simplex-chat/simplex-chat
-**Published:** 2026-06-27 13:50:17.323601
+**Published:** 2026-06-27 15:21:33.811023
 **Score:** 0
 
 SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱! (⭐ 1,470 stars today)
@@ -15,7 +15,7 @@ SimpleX - the first messaging network operating without user identifiers of any 
 
 **Source:** github_trending
 **URL:** https://github.com/xbtlin/ai-berkshire
-**Published:** 2026-06-27 13:50:17.323697
+**Published:** 2026-06-27 15:21:33.811128
 **Score:** 0
 
 AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built on Claude Code. 4 masters' methodologies + multi-agent adversarial analysis. (⭐ 686 stars today)
@@ -26,7 +26,7 @@ AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴�
 
 **Source:** github_trending
 **URL:** https://github.com/commaai/openpilot
-**Published:** 2026-06-27 13:50:17.323794
+**Published:** 2026-06-27 15:21:33.811233
 **Score:** 0
 
 openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars. (⭐ 322 stars today)
@@ -37,7 +37,7 @@ openpilot is an operating system for robotics. Currently, it upgrades the driver
 
 **Source:** github_trending
 **URL:** https://github.com/IceWhaleTech/CasaOS
-**Published:** 2026-06-27 13:50:17.323879
+**Published:** 2026-06-27 15:21:33.811327
 **Score:** 0
 
 CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system. (⭐ 502 stars today)
@@ -48,7 +48,7 @@ CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system. (⭐ 
 
 **Source:** github_trending
 **URL:** https://github.com/ripienaar/free-for-dev
-**Published:** 2026-06-27 13:50:17.323962
+**Published:** 2026-06-27 15:21:33.811415
 **Score:** 0
 
 A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev (⭐ 459 stars today)
@@ -59,7 +59,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 **Source:** github_trending
 **URL:** https://github.com/google-labs-code/design.md
-**Published:** 2026-06-27 13:50:17.324044
+**Published:** 2026-06-27 15:21:33.811502
 **Score:** 0
 
 A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system. (⭐ 1,542 stars today)
@@ -70,7 +70,7 @@ A format specification for describing a visual identity to coding agents. DESIGN
 
 **Source:** github_trending
 **URL:** https://github.com/microsoft/PowerToys
-**Published:** 2026-06-27 13:50:17.324126
+**Published:** 2026-06-27 15:21:33.811589
 **Score:** 0
 
 Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows (⭐ 67 stars today)
@@ -81,7 +81,7 @@ Microsoft PowerToys is a collection of utilities that supercharge productivity a
 
 **Source:** github_trending
 **URL:** https://github.com/hugohe3/ppt-master
-**Published:** 2026-06-27 13:50:17.324207
+**Published:** 2026-06-27 15:21:33.811675
 **Score:** 0
 
 AI generates a real, editable PowerPoint from any document — native shapes & animations, speaker notes voiced as audio narration, and the option to follow your own .pptx template, not slide images · by Hugo He (⭐ 589 stars today)
@@ -92,7 +92,7 @@ AI generates a real, editable PowerPoint from any document — native shapes & a
 
 **Source:** github_trending
 **URL:** https://github.com/JCodesMore/ai-website-cloner-template
-**Published:** 2026-06-27 13:50:17.324288
+**Published:** 2026-06-27 15:21:33.811772
 **Score:** 0
 
 Clone any website with one command using AI coding agents (⭐ 750 stars today)
@@ -103,7 +103,7 @@ Clone any website with one command using AI coding agents (⭐ 750 stars today)
 
 **Source:** github_trending
 **URL:** https://github.com/garrytan/gstack
-**Published:** 2026-06-27 13:50:17.324370
+**Published:** 2026-06-27 15:21:33.811859
 **Score:** 0
 
 Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA (⭐ 674 stars today)
@@ -114,7 +114,7 @@ Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO,
 
 **Source:** github_trending
 **URL:** https://github.com/NanmiCoder/MediaCrawler
-**Published:** 2026-06-27 13:50:17.324475
+**Published:** 2026-06-27 15:21:33.811972
 **Score:** 0
 
 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫 (⭐ 394 stars today)
@@ -125,7 +125,7 @@ Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO,
 
 **Source:** github_trending
 **URL:** https://github.com/Anil-matcha/Open-Generative-AI
-**Published:** 2026-06-27 13:50:17.324557
+**Published:** 2026-06-27 15:21:33.812060
 **Score:** 0
 
 Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed. (⭐ 254 stars today)
@@ -136,7 +136,7 @@ Unrestricted Open-source alternative to AI video platforms — Free AI image & v
 
 **Source:** github_trending
 **URL:** https://github.com/topoteretes/cognee
-**Published:** 2026-06-27 13:50:17.324662
+**Published:** 2026-06-27 15:21:33.812173
 **Score:** 0
 
 Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine. (⭐ 808 stars today)
@@ -147,7 +147,7 @@ Cognee is the open-source AI memory platform for agents. Give your AI agents per
 
 **Source:** github_trending
 **URL:** https://github.com/dbt-labs/dbt-core
-**Published:** 2026-06-27 13:50:17.324743
+**Published:** 2026-06-27 15:21:33.812261
 **Score:** 0
 
 dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications. (⭐ 45 stars today)
@@ -158,7 +158,7 @@ dbt enables data analysts and engineers to transform their data using the same p
 
 **Source:** github_trending
 **URL:** https://github.com/luongnv89/claude-howto
-**Published:** 2026-06-27 13:50:17.324851
+**Published:** 2026-06-27 15:21:33.812375
 **Score:** 0
 
 A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value. (⭐ 138 stars today)
@@ -169,7 +169,7 @@ A visual, example-driven guide to Claude Code — from basic concepts to advance
 
 **Source:** github_trending
 **URL:** https://github.com/anomalyco/opencode
-**Published:** 2026-06-27 13:50:17.324955
+**Published:** 2026-06-27 15:21:33.812489
 **Score:** 0
 
 The open source coding agent. (⭐ 428 stars today)
@@ -180,7 +180,7 @@ The open source coding agent. (⭐ 428 stars today)
 
 **Source:** github_trending
 **URL:** https://github.com/Fission-AI/OpenSpec
-**Published:** 2026-06-27 13:50:17.325036
+**Published:** 2026-06-27 15:21:33.812578
 **Score:** 0
 
 Spec-driven development (SDD) for AI coding assistants. (⭐ 167 stars today)
@@ -191,7 +191,7 @@ Spec-driven development (SDD) for AI coding assistants. (⭐ 167 stars today)
 
 **Source:** github_trending
 **URL:** https://github.com/HKUDS/Vibe-Trading
-**Published:** 2026-06-27 13:50:17.325118
+**Published:** 2026-06-27 15:21:33.812669
 **Score:** 0
 
 "Vibe-Trading: Your Personal Trading Agent" (⭐ 83 stars today)
@@ -202,7 +202,7 @@ Spec-driven development (SDD) for AI coding assistants. (⭐ 167 stars today)
 
 **Source:** github_trending
 **URL:** https://github.com/keycloak/keycloak
-**Published:** 2026-06-27 13:50:17.325223
+**Published:** 2026-06-27 15:21:33.812788
 **Score:** 0
 
 Open Source Identity and Access Management For Modern Applications and Services (⭐ 11 stars today)
@@ -213,7 +213,7 @@ Open Source Identity and Access Management For Modern Applications and Services 
 
 **Source:** github_trending
 **URL:** https://github.com/every-app/open-seo
-**Published:** 2026-06-27 13:50:17.325299
+**Published:** 2026-06-27 15:21:33.812870
 **Score:** 0
 
 Open source alternative to Semrush and Ahrefs (⭐ 230 stars today)
